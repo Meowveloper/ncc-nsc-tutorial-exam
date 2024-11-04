@@ -1,3 +1,5 @@
+----------------- nsc spring 2022 ----------------------------
+
 digital signature => 
     1. Electronic, encrypted stamp of authentication on electronic or digital information like email messages, macros and electronic documents.                  
     2. Digital signature uses PKI or asymmetric encryption. 
@@ -64,3 +66,17 @@ what a Demilitarized Zone(DMZ) is and how it can be useful =>
     2. it can be useful to protect public-facing Email servers with firewalls 
 
 
+2 threats of staff using Wi-Fi in public places like airports, coffee shops and hotels to remotely access Red Stack’s network => 
+    1. Man-in-the-Middle attack
+    2. Sniffing attacks or Eavesdropping
+    3. Malware distribution
+    4. Session hijacking
+
+
+what a Virtual Private Network (VPN) is and how it can be useful in this scenario => 
+    1. a VPN allows you to create a secure connection to another networks over the internet
+    2. it can allow access to only authenticating staff of the organization to the network and prevent unauthorized access
+    3. maintain the confidentiality of the messages sent via the public Wi-fi internet by preventing them from being read or copy during transmission
+
+
+----------------- nsc spring 2022 done -----------------------
