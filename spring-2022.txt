@@ -1,0 +1,24 @@
+digital signature => 
+    1. Electronic, encrypted stamp of authentication on electronic or digital information like email messages, macros and electronic documents.                  
+    2. Digital signature uses PKI or asymmetric encryption. 
+    3. Digital signature is an unique, numerical value of encrypted data used to prove the owner ship or copy right of the data.
+    4. To create a digital signature, a one-way hash of the electronic data is encrypted or signed using a private key. 
+    5. To verify the digital signature, the hash value is using a public key. If the hash matches a second computed hash of the same data, it proves that the data hasn't changed since it was signed.
+
+
+pieces of information included in a digital signature => 
+    1. Serial Number
+    2. Subject or Signer or Organization Name
+    3. Issuer
+    4. Signature Algorithm
+    5. Date or Validity
+    6. Key usage
+
+
+why the Organization could be trusted => 
+    1. because the Organization was digitally signed
+    2. because it comes from a trusted source
+
+
+
+
