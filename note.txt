@@ -96,17 +96,33 @@ what a Virtual Private Network (VPN) is and how it can be useful in this scenari
 
 DIFFERENCE between vulnerability scanning and vulnerability management => 
     1. definition => 
-        vulnerability scanning - ongoing process to identify, access and prioritize vulnerabilities
-        vulnerability management - point-in-time scanning to detect known vulnerabilities
+        vulnerability management - ongoing process to identify, access and prioritize vulnerabilities
+        vulnerability scanning - point-in-time scanning to detect known vulnerabilities
     2. goal => 
+        vulnerability management - continuous improvement of network's security
+        vulnerability scanning - identify the vulnerabilities in the network, system or application
+    3. scope => 
+        vulnerability management - includes identifying, risk assessment, prioritizing and monitoring of the vulnerabilities
+        vulnerability scanning - limited to identifying the vulnerabilities at the time of scan 
+    4. tools => 
+        vulnerability management - Qualys VMDR, Tenable.io, Rapid7 InsightVM
+        vulnerability scanning - Nessus, OpenVAS, Nikto
+    5. process => 
+        vulnerability management - identifying, evaluation, prioritizing, remediation, verification of the vulnerabilities
+        vulnerability scanning - scanning networks, applications, databases and cloud infrastructures
 
 --------------
 
 WEAKNESS associated with the use of HTTP => 
+    1. sensitive data are exposed in the form of clear text which is not encrypted during transmission
+    2. Man-in-the-Middle attacks
+    3. Sniffing or Eavesdropping attacks
 
 --------------
 
 the main BENEFITS of HTTPS compared to HTTP => 
+    1. create a secure communication between web browser and web server
+    2. data sent and received are encrypted
 
 --------------
 
