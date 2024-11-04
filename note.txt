@@ -44,4 +44,23 @@ The Titan software source code is stored on a private GitHub repository and can 
         5. access control mechanism to allow the only authorized user can access to the repository
 
 
+5 methods to prevent computers from unauthorized access to the data they hold => 
+    1. backup data
+    2. have strong access control mechanisms
+    3. password protect documents and files
+    4. encrypt files
+    5. encrypt disks
+
+
+2 methods that can be used to secure email systems => 
+    1. sign the email message to ensure integrity and confirm the identity of the sender
+    2. encrypt email body increase confidentiality
+    3. encrypt the communication between mail servers to increase the confidentiality of both header and body of the email message
+
+
+what a Demilitarized Zone(DMZ) is and how it can be useful => 
+
+    1. DMZ is an internal network but separated from other internal network by a firewall
+    2. it can be useful to protect public-facing Email servers with firewalls 
+
 
