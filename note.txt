@@ -72,6 +72,7 @@ what a Demilitarized Zone(DMZ) is and how it can be useful =>
 
     1. DMZ is an internal network but separated from other internal network by a firewall
     2. it can be useful to protect public-facing Email servers with firewalls 
+    3. it can be said as a layer of protection that separates a device from the rest of the network
 
 --------------
 
@@ -165,6 +166,8 @@ two other methods that can be used to improve password authentication on the com
 --------------
 
 difference between a stateful firewall and a deep packet inspection firewall => 
+    1. deep packet inspection firewall can reassemble the contents of the traffic to know what it will deliver to the application for which it was destined for 
+    2. stateful packet inspection firewall can inspect the payload of the packet and its associated session and use this information to determine if the packet can pass through or not 
 
 
 ----------------- nsc autumn 2021 done -----------------------
