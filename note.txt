@@ -167,17 +167,37 @@ difference between a stateful firewall and a deep packet inspection firewall =>
 --------------
 
 how a VPN functions and how it can be used by the company based on the scenario => 
+    1. VPN can let you send sensitive traffic over unsecured networks for remote employees that are working from home
+    2. Often called a tunnel, VPN is an encrypted connection between the remote employees and the organization
 
 --------------
 
 VPNs use AES (Advanced Encryption Standard) encryption during remote connections. Explain AES encryption and how it works => 
+    1. AES is a block of cipher that process blocks of 128 using a secret key of 128, 192 or 256 bits. It is slightly faster compared to 3DES. 
 
 --------------
 
 Discuss security tools that could have been used to detect suspicious activities on the company’s network => 
+    1. Intrusion detection or prevention on systems (IDS/IPS) monitors the network traffic and reports the network administrator
+    2. Respond or prevent the suspicious activities
+    3. use of signature-based or anomaly-based to detect intrusions
+    4. HIDS and NIDS
 
 --------------
 
-Discuss the security flaws associated with WEP(Wired Equivalent Privacy) and highlight alternative secure wireless protocols => 
+Discuss the security flaws associated with WEP(Wired Equivalent Privacy) => 
+    1. use the RC4 stream cipher for confidentiality
+    2. use the CRC-32 checksum for integrity
+    3. secret can be 64 or 128 bits long
+    4. some vendors do supply 256-bit key version
+    5. can hold up to 4 shared secret keys
+    6. one key is designated as the default key
+    7. key size is one of the security limitations in WEP
+
+--------------
+
+alternative secure wireless protocols other than WEP => 
+    1. WPA3
+    2. WPA2 enterprise
 
 --------------
