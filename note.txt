@@ -143,4 +143,28 @@ highlights of the information included in a digital certificate =>
     5. date of validity of the certificate
     6. the actions that key can be used for 
 
+--------------
+
+control mechanisms that can be implemented to protect the company’s files, documents and customer data stored on hard drives from unauthorized access => 
+    1. tools that can be used for full disk encryption are BitLocker(Windows), FileVault(MacOS), VeraCrypt(Window, MacOS, Linux) and so on
+    2. file system encryption
+    3. password-protecting document access control solutions
+    4. encryption of individual files or individual directories on the hard drive
+
+--------------
+
+how the use of biometrics can improve authentication =>
+    1. biometrics use unique characteristics of humans such as physical and behavioral traits to create a non-transferrable authentication system 
+
+--------------
+
+two other methods that can be used to improve password authentication on the company’s network => 
+    1. using complexing passwords and regularly changing the passwords
+    2. implementing a security that is not limited to the password complexation and expiration
+
+--------------
+
+difference between a stateful firewall and a deep packet inspection firewall => 
+
+
 ----------------- nsc autumn 2021 done -----------------------
