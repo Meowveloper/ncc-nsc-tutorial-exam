@@ -7,7 +7,7 @@ digital signature =>
     4. To create a digital signature, a one-way hash of the electronic data is encrypted or signed using a private key. 
     5. To verify the digital signature, the hash value is using a public key. If the hash matches a second computed hash of the same data, it proves that the data hasn't changed since it was signed.
 
------
+--------------
 
 pieces of information included in a digital signature => 
     1. Serial Number
@@ -17,25 +17,25 @@ pieces of information included in a digital signature =>
     5. Date or Validity
     6. Key usage
 
------
+--------------
 
 why the Organization could be trusted => 
     1. because the Organization was digitally signed
     2. because it comes from a trusted source
 
------
+--------------
 
 2 types of network intrusion detection systems (NIDS) => 
     1. signature based
     2. anomaly based
 
------
+--------------
 
 what a vulnerability assessment is and explain its importance for Red Stack’s customers in the scenario => 
     1. vulnerability assessment is the process of identifying, quantifying and prioritizing or ranking the vulnerabilities of the network or system
     2. customers will need the vulnerability assessment to detect the systems that may have been compromised with the Titan malware
 
------
+--------------
 
 The Titan software source code is stored on a private GitHub repository and can be accessed with the username ‘admin’ and password ‘redstack123’ by all staff members at Red Stack Ltd.
 
@@ -50,7 +50,7 @@ The Titan software source code is stored on a private GitHub repository and can 
         4. regularly changing the password 
         5. access control mechanism to allow the only authorized user can access to the repository
 
------
+--------------
 
 5 methods to prevent computers from unauthorized access to the data they hold => 
     1. backup data
@@ -59,21 +59,21 @@ The Titan software source code is stored on a private GitHub repository and can 
     4. encrypt files
     5. encrypt disks
 
------
+--------------
 
 2 methods that can be used to secure email systems => 
     1. sign the email message to ensure integrity and confirm the identity of the sender
     2. encrypt email body increase confidentiality
     3. encrypt the communication between mail servers to increase the confidentiality of both header and body of the email message
 
------
+--------------
 
 what a Demilitarized Zone(DMZ) is and how it can be useful => 
 
     1. DMZ is an internal network but separated from other internal network by a firewall
     2. it can be useful to protect public-facing Email servers with firewalls 
 
------
+--------------
 
 2 threats of staff using Wi-Fi in public places like airports, coffee shops and hotels to remotely access Red Stack’s network => 
     1. Man-in-the-Middle attack
@@ -81,7 +81,7 @@ what a Demilitarized Zone(DMZ) is and how it can be useful =>
     3. Malware distribution
     4. Session hijacking
 
------
+--------------
 
 what a Virtual Private Network (VPN) is and how it can be useful in this scenario => 
     1. a VPN allows you to create a secure connection to another networks over the internet
@@ -100,16 +100,19 @@ DIFFERENCE between vulnerability scanning and vulnerability management =>
         vulnerability management - point-in-time scanning to detect known vulnerabilities
     2. goal => 
 
------
+--------------
 
 WEAKNESS associated with the use of HTTP => 
 
+--------------
 
 the main BENEFITS of HTTPS compared to HTTP => 
 
+--------------
 
 the ROLE of a Certificate Authority (CA) => 
 
+--------------
 
 highlights of the information included in a digital certificate => 
 
