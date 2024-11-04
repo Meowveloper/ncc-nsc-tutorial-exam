@@ -20,5 +20,28 @@ why the Organization could be trusted =>
     2. because it comes from a trusted source
 
 
+2 types of network intrusion detection systems (NIDS) => 
+    1. signature based
+    2. anomaly based
+
+
+what a vulnerability assessment is and explain its importance for Red Stack’s customers in the scenario => 
+    1. vulnerability assessment is the process of identifying, quantifying and prioritizing or ranking the vulnerabilities of the network or system
+    2. customers will need the vulnerability assessment to detect the systems that may have been compromised with the Titan malware
+
+
+The Titan software source code is stored on a private GitHub repository and can be accessed with the username ‘admin’ and password ‘redstack123’ by all staff members at Red Stack Ltd.
+
+    Explain the weaknesses of using this password for authentication => 
+        1. password is easy to crack with dictionary attack
+        2. password is weak and easy to guess
+
+    5 methods that can be used to improve password security and access control on the private GitHub repository => 
+        1. use a complex password
+        2. use biometrics
+        3. use multi-factor authentication
+        4. regularly changing the password 
+        5. access control mechanism to allow the only authorized user can access to the repository
+
 
 
