@@ -1,4 +1,3 @@
------------------ nsc spring 2022 ----------------------------
 
 digital signature => 
     1. Electronic, encrypted stamp of authentication on electronic or digital information like email messages, macros and electronic documents.                  
@@ -89,11 +88,7 @@ what a Virtual Private Network (VPN) is and how it can be useful in this scenari
     2. it can allow access to only authenticating staff of the organization to the network and prevent unauthorized access
     3. maintain the confidentiality of the messages sent via the public Wi-fi internet by preventing them from being read or copy during transmission
 
------------------ nsc spring 2022 done -----------------------
-
-
-
------------------ nsc autumn 2021 ----------------------------
+--------------
 
 DIFFERENCE between vulnerability scanning and vulnerability management => 
     1. definition => 
@@ -169,5 +164,20 @@ difference between a stateful firewall and a deep packet inspection firewall =>
     1. deep packet inspection firewall can reassemble the contents of the traffic to know what it will deliver to the application for which it was destined for 
     2. stateful packet inspection firewall can inspect the payload of the packet and its associated session and use this information to determine if the packet can pass through or not 
 
+--------------
 
------------------ nsc autumn 2021 done -----------------------
+how a VPN functions and how it can be used by the company based on the scenario => 
+
+--------------
+
+VPNs use AES (Advanced Encryption Standard) encryption during remote connections. Explain AES encryption and how it works => 
+
+--------------
+
+Discuss security tools that could have been used to detect suspicious activities on the company’s network => 
+
+--------------
+
+Discuss the security flaws associated with WEP(Wired Equivalent Privacy) and highlight alternative secure wireless protocols => 
+
+--------------
