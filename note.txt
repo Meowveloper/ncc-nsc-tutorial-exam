@@ -156,7 +156,7 @@ how the use of biometrics can improve authentication =>
 
 two other methods that can be used to improve password authentication on the company’s network => 
     1. using complexing passwords and regularly changing the passwords
-    2. implementing a security that is not limited to the password complexation and expiration
+    2. implementing a security policy that is not limited to the password complexation and expiration
 
 --------------
 
