@@ -173,7 +173,7 @@ how a VPN functions and how it can be used by the company based on the scenario 
 --------------
 
 VPNs use AES (Advanced Encryption Standard) encryption during remote connections. Explain AES encryption and how it works => 
-    1. AES is a block of cipher that process blocks of 128 using a secret key of 128, 192 or 256 bits. It is slightly faster compared to 3DES. 
+    1. AES is a block of cipher that process blocks of 128 bits using a secret key of 128, 192 or 256 bits. It is slightly faster compared to 3DES. 
 
 --------------
 
@@ -188,7 +188,7 @@ Discuss security tools that could have been used to detect suspicious activities
 Discuss the security flaws associated with WEP(Wired Equivalent Privacy) => 
     1. use the RC4 stream cipher for confidentiality
     2. use the CRC-32 checksum for integrity
-    3. secret can be 64 or 128 bits long
+    3. secret keys can be 64 or 128 bits long
     4. some vendors do supply 256-bit key version
     5. can hold up to 4 shared secret keys
     6. one key is designated as the default key
